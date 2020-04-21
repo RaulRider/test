@@ -1,2 +1,2 @@
 # test
-to test git command
+This is a git to test git commands
